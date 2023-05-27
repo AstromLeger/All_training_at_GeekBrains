@@ -1,0 +1,16 @@
+# GET https://vk.com
+
+# const{
+#     DELETE : 
+# }
+
+# const {
+#     Method : GET,
+#     dawdawd : dawdawd/post/id,
+# }
+
+GET https://vk.com
+
+###
+
+POST https://yandex.ru/search/?text=собачки

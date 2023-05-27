@@ -1,0 +1,162 @@
+/* h1{
+    color: brown;
+}
+ /* или */
+
+/* #title{
+    color: blue
+} */
+/* или */
+/* .par{
+    color: chocolate
+} */
+
+/* убирает подчеркивание у ссылок (a - ссылки)*/
+a {
+    text-decoration: none;
+ }
+
+/* Изменяет вид цвета еще какой то фактор и высоту строки всему с классом link */
+.link{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+/*  */
+.title{
+color: #222222;
+    font-size: 28px;
+	    line-height: 36px;
+	    font-weight: bold;
+}
+
+/* Редактирование параграфов класса text */
+.text{
+    font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+	color: #7d7987;
+}
+
+/* изменение вида заголовков с классом title2 */
+.title2{
+    color: coral;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 80px;
+}
+
+/* изменение картинок класса Picture */
+.Picture{
+    border-radius: 10px;
+    width: 320px;
+}
+
+/* редактуриуем input имеющих класс form-input */
+.form-input{
+    width: 200px;
+	height: 30px;
+	outline: none;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	font-size: 14px;
+	line-height: 30px;
+}
+
+/* редактируем кнопки класса btn */
+.btn{
+    width: 100px;
+	height: 30px;
+	font-size: 14px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+/* редактируем body класса body-class */
+.body-class{
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+body {
+	scroll-behavior: smooth;
+	text-rendering: optimizeSpeed;
+	width: 1600px;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+.first{
+  width: 652px;
+  height: 306px;
+  display: flex;
+  box-shadow: 17px 19px 24px rgba(0, 0, 0, 0.13);
+}
+
+.h2{
+  font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #222222;
+margin-bottom: 42px;
+}
+
+.first_text{
+  width: 262px;
+  padding: 22px 0 0 31px;
+}
+
+.first_p{
+  display: flex;
+  gap: 6px;
+  flex-direction: column;
+  font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+color: #575757;
+}
+
+input{
+  width: 44px;
+  margin-left: 24px;
+}
+
+.first_close{
+  margin: 28px 22px 57px 80px;
+}
+
+.price{
+  color: rgba(239, 91, 112, 1);
+}
+
+.color, .size{
+  color: #6f6e6e;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

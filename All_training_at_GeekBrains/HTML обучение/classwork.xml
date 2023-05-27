@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+   <Book>
+    <name>Камил видит руками</name>
+    <autor>Томаш Малковски</autor>
+    <pages>146</pages>
+    <year>2019</year>
+    <coast>863</coast>
+   </Book>
+
+   <Book>
+    <name>Вероятности и неприятности</name>
+    <autor>Сергей Самойленко</autor>
+    <pages>134</pages>
+    <year>2022</year>
+    <coast>1055</coast>
+   </Book>
+
+   <Book>
+    <name>Когда жизнь сбивает с ног</name>
+    <autor>Расс Хэррис</autor>
+    <pages>80</pages>
+    <year>2021</year>
+    <coast>945</coast>
+   </Book>
+
+   <Book>
+    <name>Цветы в темноте</name>
+    <autor>Cестра Данг Нгием</autor>
+    <pages>124</pages>
+    <year>2020</year>
+    <coast>1027</coast>
+   </Book>
+
+   <Book>
+    <name>Стратегии перемен</name>
+    <autor>Джон Коттер</autor>
+    <pages>102</pages>
+    <year>2022</year>
+    <coast>1418</coast>
+   </Book>
+
+
+</catalog>
+
+

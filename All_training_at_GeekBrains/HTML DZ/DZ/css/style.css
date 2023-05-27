@@ -1,0 +1,53 @@
+body,html{
+    width: auto 100%;
+    overflow-x: hidden;
+    font-family: Verdana, sans-serif;
+    font-weight: 500;
+    margin: 3px 27px 0px 44px; 
+    
+  }
+  
+  header{
+    /* display: flex; */
+    flex-direction: row;   
+    padding: 6px 0px 29px 80px;
+  }
+  
+  
+  nav{
+      margin:25px 0 0 50px;
+      list-style-type: none;
+      display: flex;
+      flex-direction: row;
+      
+  }
+  
+  nav li{
+    padding: 0 12px 0 25px;  
+  }
+  
+  h1{
+   font-size: 20px;
+   padding-top: 30px;
+  }
+  
+  p{
+   font-size: 14px;
+  }
+  
+  /* img{
+   width: 150px;
+   height: 150px;
+   margin: 0 13px 0 69px;
+  } */
+  
+  .container{
+  background: url(../img/mig-9\ фон.jpg);
+  background-size: contain;
+  background-repeat: repeat;
+  background-color: rgb(226, 230, 231);
+  }
+  
+  a{
+      text-decoration: none;
+  }

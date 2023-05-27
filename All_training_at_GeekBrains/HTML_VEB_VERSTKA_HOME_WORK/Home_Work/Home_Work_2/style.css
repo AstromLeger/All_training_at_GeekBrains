@@ -1,0 +1,328 @@
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src: url("./Font/Gilroy-Bold.woff2");
+}
+  
+@font-face {
+  font-family: 'Gilroy-Medium';
+  src: url("./Font/Gilroy-Medium.woff2");
+}
+
+@font-face {
+  font-family: 'Gilroy-SemiBold';
+  src: url("./Font/Gilroy-Semibold.woff2");
+}
+
+
+@font-face {
+  font-family: 'Gilroy-Regular';
+  src: url(./Font/Gilroy-Regular.woff2);
+}
+
+
+* {
+	padding: 0;
+	/* margin: 0; */
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+body {
+	scroll-behavior: smooth;
+	text-rendering: optimizeSpeed;
+	background: #ffffff;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+
+.links{
+  display: flex;
+  justify-content: space-between;
+  width: 533px;
+}
+
+header{
+  margin-bottom: 84px;
+  margin-top: 40px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+h1, button, .content1{
+  font-family: 'Gilroy-Bold';
+}
+
+main{
+  margin-bottom: 53px;
+}
+
+
+.content{
+  font-size: 60px;
+  line-height: 70px;
+  color: #000000;
+}
+
+
+.content1{
+  font-size: 15px;
+  line-height: 18px;
+  color: #AAAAAA;
+}
+
+.btn{
+  padding: 15.5px 35.5px;
+  font-size: 15px;
+  line-height: 30px;
+  color: #FFFFFF;
+  background: #F25822;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn1{
+  background: #FFFFFF;
+  border: none
+}
+
+.iskluch{
+  font-family: 'Gilroy-Medium';
+font-size: 20px;
+line-height: 23px;
+color: #888888;
+}
+
+
+.container{
+  width: 1170px;
+  margin: 0 auto;
+}
+
+
+.logos{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.content_wrapper{
+  display: flex;
+  gap: 40.94px;
+}
+
+.btns-list{
+  display: flex;
+  gap: 43px;
+}
+
+
+/* .content .iskluch {
+  font-size: 20px;
+  line-height: 23px;
+  width: 466px;
+  margin-bottom: 37px;
+  } */
+
+
+  .container1{
+    width: 1170px;
+    margin: 0 auto;
+    margin-bottom: 37px;
+  }
+
+
+  .content_wrapper p{
+    font-size: 20px;
+  line-height: 23px;
+  width: 466px;
+  margin-bottom: 37px;
+  }
+
+
+.container1 img{
+  margin-top: 259.45px;
+}
+
+
+.type1 {
+  font-family: 'Gilroy-Medium';
+  font-size: 14px;
+  line-height: 16px;
+  color: #F25822;
+}
+
+
+.type2 {
+  font-family: 'Gilroy-SemiBold';
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+
+
+article{
+  margin-bottom: 538px;
+}
+
+
+.card_list{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 60px;
+  padding: 0 0 100px 0;
+
+}
+
+
+.card_list1{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 17px;
+}
+
+
+.lists1 {
+  width: 579px;
+  text-align: center;
+  padding: 0 0 19px 0;
+}
+
+
+.lists2{
+  width: 682px;
+  text-align: center;
+  padding: 0 0 54px 0;
+}
+
+
+.cards_list{
+  background: #FAFAFA;
+  padding: 92px 0 100px 0;
+}
+
+
+.Bold{
+  font-family: 'Gilroy-Bold'
+}
+
+
+.Regular{
+  font-family: 'Gilroy-Regular';
+}
+
+
+section p{
+  font-size: 15px;
+  line-height: 150%;
+}
+
+.iskluchenie-P{
+  font-size: 16px;
+line-height: 150%;
+color: #666666;
+}
+
+
+section h3{
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+
+section h6{
+  font-size: 11px;
+  line-height: 150%;
+  color: #000000;
+}
+
+
+.Fon{
+  background: #FFFFFF;
+  width: 370px;
+height: 549px;
+}
+
+.Ten{
+  box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
